@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="failed" language="en" table="x_noissue_failed">
+    <sys_documentation element="" label="namo" language="en" table="x_noissue_namo">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>failed</label>
+            <label>namo</label>
             <language>en</language>
-            <name>x_noissue_failed</name>
-            <plural>failed</plural>
+            <name>x_noissue_namo</name>
+            <plural>namos</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>anjana</sys_created_by>
-            <sys_created_on>2019-08-13 20:22:35</sys_created_on>
-            <sys_id>d662f13853133300cf70ddeeff7b12c3</sys_id>
+            <sys_created_on>2019-08-13 20:26:56</sys_created_on>
+            <sys_id>5e72317853133300cf70ddeeff7b125e</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>failed</sys_name>
+            <sys_name>namo</sys_name>
             <sys_package display_value="noissue" source="x_noissue">4040b1b053133300cf70ddeeff7b1291</sys_package>
             <sys_policy/>
             <sys_scope display_value="noissue">4040b1b053133300cf70ddeeff7b1291</sys_scope>
-            <sys_update_name>sys_documentation_x_noissue_failed__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_noissue_namo__en</sys_update_name>
             <sys_updated_by>anjana</sys_updated_by>
-            <sys_updated_on>2019-08-13 20:22:35</sys_updated_on>
+            <sys_updated_on>2019-08-13 20:26:56</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
