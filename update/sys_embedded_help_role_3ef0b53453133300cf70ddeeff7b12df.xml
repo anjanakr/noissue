@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_noissue.seetha_user" name="x_noissue.seetha_user">3af0b53453133300cf70ddeeff7b12dd</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>anjana</sys_created_by>
+        <sys_created_on>2019-08-13 20:20:25</sys_created_on>
+        <sys_id>3ef0b53453133300cf70ddeeff7b12df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3af0b53453133300cf70ddeeff7b12dd</sys_name>
+        <sys_package display_value="noissue" source="x_noissue">4040b1b053133300cf70ddeeff7b1291</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="noissue">4040b1b053133300cf70ddeeff7b1291</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3ef0b53453133300cf70ddeeff7b12df</sys_update_name>
+        <sys_updated_by>anjana</sys_updated_by>
+        <sys_updated_on>2019-08-13 20:20:25</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
