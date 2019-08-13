@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="seetha" language="en" table="x_noissue_seetha">
+    <sys_documentation element="" label="khwaheish" language="en" table="x_noissue_khwaheish">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>seetha</label>
+            <label>khwaheish</label>
             <language>en</language>
-            <name>x_noissue_seetha</name>
-            <plural>seethas</plural>
+            <name>x_noissue_khwaheish</name>
+            <plural>khwaheishes</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>anjana</sys_created_by>
-            <sys_created_on>2019-08-13 20:20:26</sys_created_on>
-            <sys_id>3cb2797853133300cf70ddeeff7b1231</sys_id>
+            <sys_created_on>2019-08-13 20:29:25</sys_created_on>
+            <sys_id>e203bdb853133300cf70ddeeff7b1251</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>seetha</sys_name>
+            <sys_name>khwaheish</sys_name>
             <sys_package display_value="noissue" source="x_noissue">4040b1b053133300cf70ddeeff7b1291</sys_package>
             <sys_policy/>
             <sys_scope display_value="noissue">4040b1b053133300cf70ddeeff7b1291</sys_scope>
-            <sys_update_name>sys_documentation_x_noissue_seetha__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_noissue_khwaheish__en</sys_update_name>
             <sys_updated_by>anjana</sys_updated_by>
-            <sys_updated_on>2019-08-13 20:20:26</sys_updated_on>
+            <sys_updated_on>2019-08-13 20:29:25</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
